@@ -1,0 +1,5 @@
+{
+  "name": "Bóng Đá AI Pro",
+  "description": "Ứng dụng dự đoán bóng đá chuyên sâu sử dụng AI để phân tích kèo, phạt góc, thẻ phạt và tỷ số dựa trên dữ liệu thời gian thực.",
+  "requestFramePermissions": []
+}
